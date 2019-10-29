@@ -1,6 +1,6 @@
 # Latihan 
-https://github.com/AndraQeysa/PBO3-Inheritance/blob/master/Latihan1a.PNG
+![alt text](https://github.com/AndraQeysa/PBO3-Inheritance/blob/master/Latihan1a.PNG)
 
-https://github.com/AndraQeysa/PBO3-Inheritance/blob/master/Latihan1bc.PNG
+![alt text](https://github.com/AndraQeysa/PBO3-Inheritance/blob/master/Latihan1bc.PNG)
 
-https://github.com/AndraQeysa/PBO3-Inheritance/blob/master/Latihan1pertamakudua.PNG
+![alt text](https://github.com/AndraQeysa/PBO3-Inheritance/blob/master/Latihan1pertamakudua.PNG)
