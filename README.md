@@ -24,6 +24,7 @@
 
 # Kesimpulan
 1.Inheritance adalah konsep yang digunakan untuk mewariskan semua method dan variablenya pada PBO
+
 2.Prosedur yang digunakkan 
   a. Keyword super
   b. Keyword this
